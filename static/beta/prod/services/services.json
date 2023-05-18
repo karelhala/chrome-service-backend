@@ -60,7 +60,7 @@
     "title": "Deploy",
     "description": "Create RHEL images, systems at the Edge, and OpenShift clusters.",
     "links": [
-      "edge.groups",
+      "edge.edge",
       "rhel.imageBuilder",
       "settings.repositories",
       "quay.quay"
@@ -106,7 +106,7 @@
     "description": "View OpenShift clusters, Edge systems, RHEL hosts, and your organization's subscriptions.",
     "links": [
       "openshift.clusters",
-      "edge.groups",
+      "edge.edge",
       "rhel.imageBuilder",
       "rhel.subscriptionsInventory",
       "rhel.inventory"
@@ -193,7 +193,7 @@
           "rhel.recommendations",
           "rhel.advisories",
           "rhel.complianceReports",
-          "edge.groups",
+          "edge.edge",
           "rhel.signatures",
           "rhel.remediations",
           "rhel.vulnerability"
